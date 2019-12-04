@@ -83,8 +83,8 @@ This script is used for importing csv file when uploading products/ingredients i
      supplier
      type`
      
-         `
-     If the purchase type is written in abbreviation, rename it into original words
+         
+    `If the purchase type is written in abbreviation, rename it into original words
      example: kg = kilo
                gm = grams
                ml = millimeter 
