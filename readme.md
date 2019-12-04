@@ -78,8 +78,8 @@ This script is used for importing csv file when uploading products/ingredients i
     `title
      description
      purchase_unit
-      purchase_type
-      purchase_unit_cost 
+     purchase_type
+     purchase_unit_cost 
      supplier
      type`
      
@@ -95,7 +95,7 @@ This script is used for importing csv file when uploading products/ingredients i
              liter = millimeter
     ```
 
-4.  Go to cpanel, then add the code and the ingredient file
+4.  Go to cpanel, then paste the code
 
     `:2083`
     
