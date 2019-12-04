@@ -83,7 +83,7 @@ This script is used for importing csv file when uploading products/ingredients i
      supplier
      type`
      
-     
+         `
      If the purchase type is written in abbreviation, rename it into original words
      example: kg = kilo
                gm = grams
@@ -92,7 +92,7 @@ This script is used for importing csv file when uploading products/ingredients i
      example: kilo = grams
                unit = unit
                grams = grams
-               liter = millimeter 
+               liter = millimeter`
 
 4.  Go to cpanel, then add the code and the ingredient file
 
